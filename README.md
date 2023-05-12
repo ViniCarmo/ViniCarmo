@@ -1,4 +1,4 @@
-# Olá! Sou o Vinicius, sou um desenvolvedor aprendizado!
+# Olá! Sou o Vinicius, sou um desenvolvedor em aprendizado!
 
 **ESTOU APRENDENDO SOBRE:**
 
