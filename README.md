@@ -36,6 +36,6 @@
   <a href="https://www.instagram.com/vini.carmoo/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   
  
- ![Snake animation](https://github.com/viniciusnunes137/viniciusnunes137/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/ViniCarmo/ViniCarmo/blob/output/github-contribution-grid-snake.svg)
 
 </div>
