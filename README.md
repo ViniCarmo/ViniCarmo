@@ -9,9 +9,7 @@
 - [x] JAVA
 - [x] BANCO DE DADOS
 - [x] FRAMEWORKS
-- [ ] REST API
-
-**_Observação:_** _Os itens não ticados serão apresentados no decorrer do curso e serão atualizados assim que obtiver tal competência._
+- [x] REST API
 
 
 <div align="center">
@@ -23,8 +21,6 @@
   <img align="center" alt="ICONE HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="ICONE CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="ICONE JAVA" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/3291/3291669.png">
-  <img align="center" alt="ICONE PYTHON" height="30" width="30" src="https://img.icons8.com/color/48/null/python--v1.png">
-  <img align="center" alt="ICONE LINUX" height="30" width="30" src="https://img.icons8.com/color/48/null/linux.png">
   <img align="center" alt="ICONE MYSQL" height="40" width="50" src="https://img.icons8.com/color/48/null/mysql.png">
 </div>
   
