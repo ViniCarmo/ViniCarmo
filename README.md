@@ -5,7 +5,7 @@
 - [x] HTML5
 - [x] CSS3
 - [x] JAVA SCRIPT
-- [x] Angulas
+- [x] ANGULAR
 - [x] JAVA
 - [x] BANCO DE DADOS
 - [x] FRAMEWORKS
