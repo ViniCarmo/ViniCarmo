@@ -5,8 +5,8 @@
 - [x] HTML5
 - [x] CSS3
 - [x] JAVA SCRIPT
-- [x] REACT
 - [x] JAVA
+- [x] SPRING
 - [x] BANCO DE DADOS
 - [x] FRAMEWORKS
 - [x] REST API
