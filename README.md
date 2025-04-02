@@ -7,7 +7,7 @@
 - [x] JAVA
 - [x] SPRING
 - [x] AWS
-- [x] Docker
+- [x] DOCKER
 - [x] BANCO DE DADOS
 - [x] FRAMEWORKS
 - [x] REST API
