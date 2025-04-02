@@ -6,6 +6,8 @@
 - [x] CSS3
 - [x] JAVA
 - [x] SPRING
+- [x] AWS
+- [x] Docker
 - [x] BANCO DE DADOS
 - [x] FRAMEWORKS
 - [x] REST API
