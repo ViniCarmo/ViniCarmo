@@ -12,14 +12,14 @@
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="ICONE HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="ICONE CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="ICONE HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="ICONE CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="ICONE JAVA" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/3291/3291669.png">
- <img align="center" alt="ICONE SPRINGBOOT" height="40" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png">
-<img align="center" alt="ICONE AWS" height="40" width="50" src="https://img.icons8.com/color/48/000000/amazon-web-services.png">
-<img align="center" alt="ICONE DOCKER" height="40" width="50" src="https://img.icons8.com/color/48/000000/docker.png">
-<img align="center" alt="ICONE POSTGRESQL" height="40" width="50" src="https://img.icons8.com/color/48/000000/postgreesql.png">
-<img align="center" alt="ICONE MYSQL" height="40" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png">
+ <img align="center" alt="ICONE SPRINGBOOT" height="30" width="30" src="https://img.icons8.com/color/48/000000/spring-logo.png">
+<img align="center" alt="ICONE AWS" height="30" width="30" src="https://img.icons8.com/color/48/000000/amazon-web-services.png">
+<img align="center" alt="ICONE DOCKER" height="30" width="30" src="https://img.icons8.com/color/48/000000/docker.png">
+<img align="center" alt="ICONE POSTGRESQL" height="30" width="30" src="https://img.icons8.com/color/48/000000/postgreesql.png">
+<img align="center" alt="ICONE MYSQL" height="30" width="30" src="https://img.icons8.com/color/48/000000/mysql-logo.png">
 
 
 </div>
