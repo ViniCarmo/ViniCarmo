@@ -18,6 +18,8 @@
  <img align="center" alt="ICONE SPRINGBOOT" height="40" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png">
 <img align="center" alt="ICONE AWS" height="40" width="50" src="https://img.icons8.com/color/48/000000/amazon-web-services.png">
 <img align="center" alt="ICONE DOCKER" height="40" width="50" src="https://img.icons8.com/color/48/000000/docker.png">
+<img align="center" alt="ICONE POSTGRESQL" height="40" width="50" src="https://img.icons8.com/color/48/000000/postgreesql.png">
+<img align="center" alt="ICONE MYSQL" height="40" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png">
 
 
 </div>
