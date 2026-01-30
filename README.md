@@ -2,7 +2,6 @@
 ### Desenvolvedor Backend Java
 
 Sou desenvolvedor backend com foco em criar aplicações **robustas, escaláveis e bem estruturadas** utilizando **Java e Spring Boot**.  
-Tenho experiência prática com APIs REST, banco de dados relacionais e estou em constante evolução para atuar com arquitetura e sistemas distribuídos.
 
 ---
 
@@ -14,13 +13,13 @@ Tenho experiência prática com APIs REST, banco de dados relacionais e estou em
 - Banco de Dados Relacionais (PostgreSQL, MySQL)  
 - Docker (containerização de aplicações)  
 - AWS (conceitos e primeiros deploys)  
-- HTML5 e CSS3 (noções para integração frontend/backend)
+- HTML5 e CSS3
 
 ---
 
 ## 🎯 Atualmente estudando
 
-Pós-graduação em **Arquitetura de Software e Sistemas Distribuídos** (início em fevereiro/2026), com foco em:
+Pós-graduação em **Arquitetura e desenvolvimento JAVA** (2026), com foco em:
 
 - Arquitetura de Microservices (Event Storming, CQRS)  
 - Sistemas Distribuídos e Resiliência  
@@ -36,7 +35,7 @@ Pós-graduação em **Arquitetura de Software e Sistemas Distribuídos** (iníci
 
 ## 📌 Projetos
 
-📂 Repositórios fixados com projetos utilizando **Spring Boot**, **APIs REST**, **autenticação**, **CRUD**, **DTOs** e **banco de dados**.
+📂 Repositórios fixados com projetos utilizando **Spring Boot**, **APIs REST**.
 
 ---
 
@@ -54,8 +53,5 @@ Busco oportunidade como **Desenvolvedor Backend Java Júnior**, com foco em cres
   </a>
   <a href="https://www.linkedin.com/in/vinicius-carmo-ba5626226/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/vini.carmoo/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
