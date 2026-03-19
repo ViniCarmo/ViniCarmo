@@ -1,57 +1,31 @@
-# Olá! Eu sou o Vinicius 👋  
-### Desenvolvedor Backend Java
+# Eu sou o Vinicius 👋  
+### Backend Software Engineer | Java | Spring Boot
 
-Sou desenvolvedor backend com foco em criar aplicações **robustas, escaláveis e bem estruturadas** utilizando **Java e Spring Boot**.  
+Desenvolvedor backend com foco na construção de **APIs seguras, bem estruturadas e escaláveis**, utilizando **Java e Spring Boot**.
+
+Tenho experiência prática no desenvolvimento de aplicações completas, incluindo autenticação, regras de negócio, persistência de dados, testes automatizados e containerização.
 
 ---
 
-## 💻 Tecnologias com experiência prática
+## 🚀 Stack
 
-- Java  
+- Java 21  
 - Spring Boot  
-- APIs REST  
-- Banco de Dados Relacionais (PostgreSQL, MySQL)  
-- Docker (containerização de aplicações)  
-- AWS (conceitos e primeiros deploys)  
-- HTML5 e CSS3
+- Spring Security + JWT  
+- JPA / Hibernate  
+- PostgreSQL  
+- Docker & Docker Compose  
+- Testes (JUnit, Mockito)  
 
 ---
 
-## 🎯 Atualmente estudando
+## 🎯 Objetivo
 
-Pós-graduação em **Arquitetura e desenvolvimento JAVA** (2026), com foco em:
-
-- Arquitetura de Microservices (Event Storming, CQRS)  
-- Sistemas Distribuídos e Resiliência  
-- Clean Architecture  
-- Mensageria (Kafka e RabbitMQ)  
-- gRPC e GraphQL  
-- Quarkus  
-- Spring Cloud  
-- Azure e Google Cloud  
-- Serverless Computing  
+Atuar como **Backend Software Engineer**, contribuindo na construção de sistemas robustos e escaláveis, com foco em qualidade de código e boas práticas.
 
 ---
 
-## 📌 Projetos
+## 🌐 Contato
 
-📂 Repositórios fixados com projetos utilizando **Spring Boot**, **APIs REST**.
-
----
-
-## 🚀 Objetivo profissional
-
-Busco oportunidade como **Desenvolvedor Backend Java Júnior**, com foco em crescimento técnico, boas práticas e evolução para arquitetura de software.
-
----
-
-## 🌐 Conecte-se comigo
-
-<div>
-  <a href="mailto:vinicius.carmo1106@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/vinicius-carmo-ba5626226/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
+- 📧 Email: vinicius.carmo1106@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/viniciuscarmoo/
