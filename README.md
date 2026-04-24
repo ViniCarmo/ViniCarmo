@@ -1,31 +1,19 @@
-# Eu sou o Vinicius 👋  
-### Backend Software Engineer | Java | Spring Boot
+# Vinicius Carmo
 
-Desenvolvedor backend com foco na construção de **APIs seguras, bem estruturadas e escaláveis**, utilizando **Java e Spring Boot**.
+Desenvolvedor Backend com foco em Java e Spring Boot. Construo APIs REST seguras e escaláveis com autenticação JWT, containerização Docker e deploy na AWS. Atualmente atuando em ambiente de missão crítica 24x7 e cursando Pós-Graduação em Arquitetura Java pela FIAP.
 
-Tenho experiência prática no desenvolvimento de aplicações completas, incluindo autenticação, regras de negócio, persistência de dados, testes automatizados e containerização.
+## Stack
 
----
+**Backend:** Java 21 · Spring Boot · Spring Security · JPA/Hibernate · Maven  
+**Banco de dados:** PostgreSQL · RDS Aurora  
+**Cloud & DevOps:** AWS (EC2, RDS) · Docker · Linux · Git  
+**Testes:** JUnit · Mockito · MockMvc  
 
-## 🚀 Stack
+## Projetos
 
-- Java 21  
-- Spring Boot  
-- Spring Security + JWT  
-- JPA / Hibernate  
-- PostgreSQL  
-- Docker & Docker Compose  
-- Testes (JUnit, Mockito)  
+- [Finance API](https://github.com/ViniCarmo/financeControl) — API financeira em produção com autenticação JWT, RBAC, relatórios mensais e testes automatizados
+- [Plataforma ONG Educacional](https://github.com/ONG-3-sem) — Plataforma educacional com JWT, Spring Security e deploy em AWS EC2 + RDS Aurora
 
----
+## Contato
 
-## 🎯 Objetivo
-
-Atuar como **Backend Software Engineer**, contribuindo na construção de sistemas robustos e escaláveis, com foco em qualidade de código e boas práticas.
-
----
-
-## 🌐 Contato
-
-- 📧 Email: vinicius.carmo1106@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/viniciuscarmoo/
+[LinkedIn](https://www.linkedin.com/in/viniciuscarmoo/) · vinicius.carmo1106@gmail.com
